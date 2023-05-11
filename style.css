@@ -22,7 +22,7 @@ body {
 
 /*Main elements*/
 .container {
-  width: 700px;
+  width: 800px;
   display: grid;
   grid-template-columns: repeat(2, 1fr);
   padding: 40px;
